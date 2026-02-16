@@ -1,0 +1,4 @@
+python3-requests-toolbelt: copyright-without-copyright-notice
+python3-requests-toolbelt: initial-upload-closes-no-bugs
+python3-requests-toolbelt: no-manual-page
+python3-requests-toolbelt: zero-byte-file-in-doc-directory
